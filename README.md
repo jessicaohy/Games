@@ -14,3 +14,7 @@ Asteroids:
 Hearts:
 - AI Hearts card game
 - Haskell Programming Language
+
+Knight in chess:
+- Python Programming Language
+
