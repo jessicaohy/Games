@@ -1,4 +1,4 @@
-# FIT2102 Assignment 2: Hearts
+# Hearts
 
  - **Due Date**: TBD
  - **Weighting**: 20% of your final mark for the unit
